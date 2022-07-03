@@ -39,7 +39,7 @@ Select user
 execute as user = 'UserBTC' 
 go 
 
----------------------Dar permisos de creacion de tabla al usuario---------------------
+---------------------raw---------------------
 Use tradingCrypto
 
 create table cryptoPrices_raw
